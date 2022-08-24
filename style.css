@@ -1,0 +1,37 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0;
+    margin-left: 0;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.shakir {
+    color: orange;
+}
+
+.portfolio {
+    overflow: hidden;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.written {
+    width: 50%;
+    float: left;
+}
+
+.photo img {
+    width: 45%;
+    height: 500px;
+    float: right;
+}
+
+.profile {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
